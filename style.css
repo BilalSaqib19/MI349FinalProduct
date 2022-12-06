@@ -63,10 +63,12 @@ header{
 
 .background{
     transform: translateZ(-10px) scale (2);
+    z-index: -1;
 }
 
 .foreground{
     transform: translateZ(-5px) scale(1.5);
+    z-index: 1;
 }
 
 .background,.foreground {
@@ -74,7 +76,7 @@ position: absolute;
 height: 100%;
 width: 100%;
 object-fit: cover;
-    z-index: -1;
+   
 }
 
 section{
@@ -118,6 +120,7 @@ margin-right: 10px;
 .gameTitle{
   color:  #ff00ff;
   font-size: 1.5em;
+  clear: both;
   
 }
 
@@ -138,6 +141,7 @@ margin-right: 10px;
     width:200;
 float: left;
 margin-right: 10px;
+
 }
 
 .tomb{
