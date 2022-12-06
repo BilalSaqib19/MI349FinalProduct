@@ -113,3 +113,8 @@ p{
     width:80px;
 float: right;
 }
+
+.gameTitle{
+  color:  #ff00ff;
+  font-size: 1.5em;
+}
