@@ -88,5 +88,11 @@ section{
 .contactMeAt{
 
     color: #ff00ff;
-    font
+    font-weight: 1.1em;
+}
+
+.startingStatementContact{
+
+    color: #ff00ff;
+    font-weight: 1.3em;
 }
