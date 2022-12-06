@@ -26,3 +26,8 @@ a[href]{
     color:#4169e1;
 font-weight: bold;
 }
+
+#toTheLeft{
+
+    float:right;
+}
