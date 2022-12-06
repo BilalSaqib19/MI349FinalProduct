@@ -130,3 +130,9 @@ float: right;
 .gameText{
     font-size: 1.3em;
 }
+
+.radley{
+    height: 200px;
+    width:200px;
+float: left;
+}
