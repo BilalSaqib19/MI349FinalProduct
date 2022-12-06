@@ -179,3 +179,9 @@ margin-right: 10px;
 height: 200px;
 width: 200px;
 }
+
+.aboutTitle{
+
+    font-size: 2.5em;
+    color:  #ff00ff;
+}
