@@ -27,7 +27,7 @@ a[href]{
 font-weight: bold;
 }
 
-#toTheLeft{
+.toTheLeft{
 
     float:right;
 }
