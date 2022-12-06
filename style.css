@@ -21,3 +21,8 @@ nav{
     margin: 10px;
    
 }
+
+a[href]{
+    color:#4169e1;
+font-weight: bold;
+}
