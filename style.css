@@ -111,7 +111,7 @@ p{
 .mitch{
     height: 200px;
     width:200px;
-float: right;
+float: left;
 }
 
 .gameTitle{
@@ -140,5 +140,5 @@ float: left;
 .tomb{
     height: 180px;
     width:200px;
-float: right;
+float: left;
 }
