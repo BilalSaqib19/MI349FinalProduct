@@ -33,4 +33,10 @@ font-weight: bold;
   position: absolute;
   right: 10px;
   top: 10px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.name{
+font-size: 2em;
+font-family: Georgia, 'Times New Roman', Times, serif;
 }
