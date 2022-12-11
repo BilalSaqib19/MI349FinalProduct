@@ -8,13 +8,15 @@ body{
 h1{
 
 color: white;
+position: absolute;
+    left: 1px;
 }
 
 h2{
 
     color: white;
     position: absolute;
-    right: 5px;
+    right: 1px;
 }
 
 nav{
