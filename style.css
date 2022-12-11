@@ -58,7 +58,7 @@ font-family: Georgia, 'Times New Roman', Times, serif;
         font-size: 2.5em;
         font-family: Georgia, 'Times New Roman', Times, serif;
         position: absolute;
-        left:275px;
+        left:325px;
         top:150px;
 
 
@@ -71,7 +71,7 @@ font-family: Georgia, 'Times New Roman', Times, serif;
         flex-direction: column;
         align-items:center;
         position: absolute;
-        right:250px;
+        right:300px;
         top:250px
         }
 
