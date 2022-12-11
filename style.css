@@ -62,6 +62,10 @@ font-family: Georgia, 'Times New Roman', Times, serif;
     perspective: 10px;
 }
 
+.warapper img {
+    background: transparent;
+  }
+
 
 header{
     position: relative;
@@ -75,7 +79,10 @@ header{
 .foreground{
     transform: translateZ(-5px) scale(1.5);
     z-index: -.5;
+
 }
+
+
 .background{
     transform: translateZ(-10px) scale (2);
     z-index: -1;
