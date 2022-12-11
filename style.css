@@ -77,6 +77,12 @@ header{
     transform-style: preserve-3d;
     z-index: -1;
     background-color: transparent;
+    
+}
+
+header img{
+
+    background-color: transparent;
 }
 .foreground{
     transform: translateZ(-5px) scale(1.5);
