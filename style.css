@@ -8,16 +8,13 @@ body{
 h1{
 
 color: white;
-position: absolute;
-    left: 430px;
-    top:150px;
+
 }
 
 h2{
 
     color: white;
-    position: absolute;
-    right: 430px;
+   
 }
 
 nav{
@@ -56,8 +53,26 @@ font-family: Georgia, 'Times New Roman', Times, serif;
     align-items:center;
     }
 
+    .nameto{
+
+        font-size: 2.5em;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        position: absolute;
+        right:300px;
+        top:100px;
 
 
+    }
+
+    .titleto{
+
+        font-size: 2.5em;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        flex-direction: column;
+        align-items:center;
+        position: absolute;
+        left:100px;
+        }
 
 
 .wrapper{
